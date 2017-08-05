@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 449ebcfcf1fcc99458a9e14df404381c
+timeCreated: 1501963303
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fake Receipt
+  fontNames:
+  - Fake Receipt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
